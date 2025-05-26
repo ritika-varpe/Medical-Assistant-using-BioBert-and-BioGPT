@@ -72,22 +72,7 @@ python app.py
 Access the Interface:
 
 Open your web browser and navigate to http://localhost:5000 to interact with the medical assistant.
-
-Project Structure
-php
-Copy
-Edit
-medical-assistant-biobert-biogpt/
-├── data/                   # Raw and processed data
-├── models/                 # Pre-trained and fine-tuned models
-├── notebooks/              # Jupyter notebooks for experimentation
-├── app/                    # Flask application code
-├── static/                 # Static files (CSS, JS)
-├── templates/              # HTML templates
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── LICENSE                 # License information
-📚 References
+References
 BioBERT: A pre-trained biomedical language representation model for biomedical text mining. arXiv:1901.08746
 
 BioGPT: Generative pre-trained transformer for biomedical text generation and mining. arXiv:2210.10341
