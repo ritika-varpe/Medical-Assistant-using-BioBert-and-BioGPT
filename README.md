@@ -73,13 +73,6 @@ Access the Interface:
 
 Open your web browser and navigate to http://localhost:5000 to interact with the medical assistant.
 
-
-Performance Metrics:
-
-Achieved F1 scores of 44.98% on BC5CDR, 38.42% on KD-DTI, and 40.76% on DDI.
-
-Attained 78.2% accuracy on PubMedQA, setting a new benchmark.
-
 Project Structure
 php
 Copy
